@@ -1,5 +1,8 @@
 # TryHackMe_How-Websites-Work
 
+![Capture](https://github.com/sayan-125/TryHackMe_How-Websites-Work/assets/158836588/853123dd-12e9-4075-a55c-2d2bcd56a1b3)
+
+
 ### **Task 1:** How websites work
 
 	Q) What term best describes the component of a web application rendered by your browser?
